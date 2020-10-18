@@ -1,3 +1,4 @@
 champagne
 cocktail
 sherry
+cider
