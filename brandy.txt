@@ -2,3 +2,4 @@ champagne
 cocktail
 sherry
 whisky
+scotch
