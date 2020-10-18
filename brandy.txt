@@ -1,5 +1,6 @@
 champagne
 cocktail
 sherry
-Bordeaux
-Manhattan
+whisky
+Gimlet
+
